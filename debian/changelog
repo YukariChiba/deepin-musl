@@ -1,3 +1,9 @@
+musl (1.2.3-1deepin1) unstable; urgency=medium
+
+  * Add loong64 to build arch
+
+ -- Chang Yang <yangchang@deepin.org>  Mon, 07 Aug 2023 23:30:02 +0800
+
 musl (1.2.3-1) unstable; urgency=medium
 
   * New upstream release.
